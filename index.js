@@ -22,9 +22,11 @@ function destructivelyRemoveFirstKitten(){
   return kittens
 }
 
-function appendKitten()
+function appendKitten(name){
+  
+}
 
 function combineArrays(array1, array2){
-  kitten3 = array.concat(array2)
+  return kittens.concat(element)
   return kitten3
 }
