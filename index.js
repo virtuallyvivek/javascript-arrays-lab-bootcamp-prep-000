@@ -1,8 +1,9 @@
 var kittens = ["Milo", "Otis", "Garfield"]
 
 
-function functiondestructivelyAppendKitten(name){
+function destructivelyAppendKitten(name){
   kittens.push(name)
+  return kittens
 }
 
 function destructivelyPrependKitten(name){
@@ -25,7 +26,7 @@ function appendKitten(name){
 }
 
 function prependKitten(name){
-  return concat(name).kittens
+  kittens = name
 }
 
 function removeLastKitten(){
