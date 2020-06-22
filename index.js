@@ -18,6 +18,7 @@ function destructivelyRemoveFirstKitten(){
   kittens.shift()
 }
 
+
 function combineArrays(array1, array2){
   kitten3 = array.concat(array2)
   return kitten3
