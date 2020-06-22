@@ -7,5 +7,5 @@ function combineArrays(array1, array2){
 }
 
 function destructivelyRemoveLastKitten(array){
-  array.slice(3)
+  array.slice(0,2)
 }
