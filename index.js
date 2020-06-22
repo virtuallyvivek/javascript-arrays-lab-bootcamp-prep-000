@@ -3,11 +3,11 @@ var kittens2 = ["Cat", "Cattius", "Catastrophic"]
 
 
 function functiondestructivelyAppendKitten(array){
-  
+  array.
 }
 
 function destructivelyRemoveLastKitten(array){
-  array.slice(0,2)
+  return array.slice(0,2)
 }
 
 function combineArrays(array1, array2){
