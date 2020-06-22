@@ -6,6 +6,6 @@ function combineArrays(array1, array2){
   return kitten3
 }
 
-function removeBeginning(array){
+function destructivelyRemoveLastKitten(array){
   array.slice(3)
 }
