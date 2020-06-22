@@ -6,6 +6,9 @@ function combineArrays(array1, array2){
   return kitten3
 }
 
+
+destructivelyAppendKitten
+
 function destructivelyRemoveLastKitten(array){
   array.slice(0,2)
 }
