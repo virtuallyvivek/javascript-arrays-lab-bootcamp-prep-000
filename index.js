@@ -25,6 +25,6 @@ function appendKitten(name){
   return kittens.concat(name)
 }
 
-function combineArrays(array1, array2){
+function prependKitten(name){
   return kitten3
 }
