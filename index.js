@@ -1,7 +1,8 @@
 var kittens = ["Milo", "Otis", "Garfield"]
+var kittens2 = ["Cat", "Cattius", "Catastrophic"]
 
 functions removeBeginning(){
-  concat(1)
+  kitten3 = concat(1)
 
 
 
