@@ -6,10 +6,15 @@ function functiondestructivelyAppendKitten(name){
   kittens.push(name)
 }
 
-function destructivelyRemoveLastKitten(array){
-  console.log(array.slice(0,2))
+function destructivelyPrependKitten(name){
+  kittens.unshift(name)
 }
 
+function destructivelyRemoveLastKitten(array){
+  kittens.pop()
+}
+
+function 
 function combineArrays(array1, array2){
   kitten3 = array.concat(array2)
   return kitten3
