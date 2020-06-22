@@ -1,10 +1,10 @@
 var kittens = ["Milo", "Otis", "Garfield"]
 
-// Add your functions and code here
-
 functions removeBeginning(){
-  concat()
+  concat(1)
+
+var kittens = ["Milo", "Otis", "Garfield"]
 
 functions removeEnding(array){
-  array.slice()
+  array.slice(1)
 }
