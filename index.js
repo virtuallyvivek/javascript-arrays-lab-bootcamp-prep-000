@@ -2,8 +2,8 @@ var kittens = ["Milo", "Otis", "Garfield"]
 var kittens2 = ["Cat", "Cattius", "Catastrophic"]
 
 
-function functiondestructivelyAppendKitten(array,element){
-  array.push(element)
+function functiondestructivelyAppendKitten(name){
+  kittens.push(name)
 }
 
 function destructivelyRemoveLastKitten(array){
