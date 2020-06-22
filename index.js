@@ -1,13 +1,11 @@
 var kittens = ["Milo", "Otis", "Garfield"]
 var kittens2 = ["Cat", "Cattius", "Catastrophic"]
 
-functions removeBeginning(){
-  kitten3 = concat(1)
+functions removeBeginning(array1, array2){
+  kitten3 = array.concat(array2)
+  return kitten3
+}
 
-
-
-const array2 = ['d', 'e', 'f'];
-const array3 = array1.concat(array2);
 
 functions removeEnding(array){
   array.slice(1)
