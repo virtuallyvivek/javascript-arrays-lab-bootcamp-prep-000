@@ -1,5 +1,4 @@
 var kittens = ["Milo", "Otis", "Garfield"]
-var kittens2 = ["Cat", "Cattius", "Catastrophic"]
 
 
 function functiondestructivelyAppendKitten(name){
